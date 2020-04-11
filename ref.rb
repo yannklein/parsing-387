@@ -8,6 +8,8 @@
 # - tell if the e-mail is valid
 # - stop if no input
 
+#Change the code!!!!
+
 def email_checker
   puts 'Give an e-mail'
   input = gets.chomp
@@ -23,7 +25,7 @@ end
 email_checker
 
 # ###################
-# 👩‍🎓 Challenge 2 👨‍🎓
+# 🎓 Challenge 2 🎓
 # ###################
 
 # Read a CSV file and add the missing student
@@ -104,3 +106,7 @@ end
 
 # Uncomment line below to run!
 world_population
+
+
+
+
